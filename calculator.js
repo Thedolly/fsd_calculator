@@ -13,9 +13,7 @@ function add(a,b){
     console.log("After division remainder = "+divRemain);
     var div = a/b;
     console.log("division = "+div);
-    console.log("division = "+div);
-    console.log("hii");
-
+    
 }
 add(2,4);
-add(2,2);
+
