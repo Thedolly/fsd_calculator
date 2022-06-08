@@ -14,6 +14,7 @@ function add(a,b){
     var div = a/b;
     console.log("division = "+div);
     console.log("division = "+div);
+    console.log("hii");
 
 }
 add(2,4);
